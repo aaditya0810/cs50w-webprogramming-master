@@ -7,4 +7,4 @@ Web Programming with Python and JavaScript
 This is CS50
 ===
 
-Hi! I'm Marco Richetta and this is my personal page.
+Hi! I'M Aaditya Punekar and this is my personal page.
